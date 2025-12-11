@@ -15,4 +15,4 @@ This version modifies the original script to address the following issues:
 1. Open a terminal in your `ComfyUI/custom_nodes/` folder.
 2. Run:
    ```bash
-   git clone [https://github.com/PretaxIvy/ComfyUI-Mobile-Fix](https://github.com/PretaxIvy/ComfyUI-Mobile-Fix)
+  git clone https://github.com/PretaxIvy/ComfyUI-Mobile-Fix
