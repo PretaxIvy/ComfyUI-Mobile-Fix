@@ -11,8 +11,7 @@ This version modifies the original script to address the following issues:
 
 ### Installation
 
-**Method 1: Git Clone**
 1. Open a terminal in your `ComfyUI/custom_nodes/` folder.
 2. Run:
    ```bash
-  git clone https://github.com/PretaxIvy/ComfyUI-Mobile-Fix
+   git clone https://github.com/PretaxIvy/ComfyUI-Mobile-Fix
