@@ -16,3 +16,6 @@ This version modifies the original script to address the following issues:
    ```bash
    git clone https://github.com/PretaxIvy/ComfyUI-Mobile-Fix
 3. Restart ComfyUI.
+
+### Usage Tip
+For the best experience, enable "Desktop Mode" in your mobile browser settings. This ensures the canvas and menus render correctly with the touch improvements.
