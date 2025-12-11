@@ -15,3 +15,4 @@ This version modifies the original script to address the following issues:
 2. Run:
    ```bash
    git clone https://github.com/PretaxIvy/ComfyUI-Mobile-Fix
+3. Restart ComfyUI.
