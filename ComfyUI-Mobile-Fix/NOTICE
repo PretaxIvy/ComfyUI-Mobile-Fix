@@ -1,0 +1,16 @@
+ComfyUI-Mobile-Fix
+==================
+
+This repository contains a modified and optimized version of code originally
+sourced from "ComfyUI-Touch-Gestures".
+
+Original Author: Iemand005
+Original Repository: https://github.com/Iemand005/ComfyUI-Touch-Gestures
+Original License: None specified (All Rights Reserved to original author).
+
+Modifications by PretaxIvy:
+- Implemented requestAnimationFrame for performance.
+- Fixed touch event handling to prevent UI freezes.
+- Added touch-action CSS properties.
+
+These modifications are provided "as is" to help the community, with no warranties.
