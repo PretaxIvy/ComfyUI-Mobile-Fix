@@ -2,7 +2,6 @@
 name = "comfyui-mobile-fix"
 description = "A fixed and optimized version of touch gestures for ComfyUI. Solves freezing issues and improves mobile usability."
 version = "1.0.0"
-license = {file = "LICENSE"}
 
 [project.urls]
 Repository = "https://github.com/PretaxIvy/ComfyUI-Mobile-Fix"
@@ -10,4 +9,5 @@ Repository = "https://github.com/PretaxIvy/ComfyUI-Mobile-Fix"
 [tool.comfy]
 PublisherId = "PretaxIvy"
 DisplayName = "ComfyUI-Mobile-Fix"
+
 Icon = ""
